@@ -9,9 +9,18 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruijie-xu-a32228314/)[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5LHqO50AAAAJ&hl=zh-CN&oi=ao)[![CV](https://img.shields.io/badge/-CV-black?style=flat&logo=github&logoColor=white)](https://github.com/RuijieXu0408/RuijieXu0408/blob/main/RuijieXuCV-Eng(250409).pdf)
 
-visitors: ![visitors](https://profile-counter.glitch.me/{RuijieXu0408}/count.svg)
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/ROS-%2322314E.svg?style=flat&logo=ros&logoColor=white" alt="ROS">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+</p>
 
+### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuijieXu0408&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuijieXu0408&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" height="160"/>
+</div>
 
-## Language and Profile
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuijieXu0408)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuijieXu0408&layout=compact)
