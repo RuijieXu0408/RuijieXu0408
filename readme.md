@@ -21,6 +21,5 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuijieXu0408&theme=transparent&hide_border=true" alt="GitHub Streak" height="170"/>
   
-  <img src="https://metrics.lecoq.io/RuijieXu0408?template=classic&base=repositories&config.timezone=Asia%2FHong_Kong" alt="Metrics" height="170"/>
 </div>
 
