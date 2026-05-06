@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuijieXu0408&theme=transparent&hide_border=true" alt="GitHub Streak" height="170"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuijieXu0408&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuijieXu0408&theme=transparent" alt="Top Languages" height="170"/>
   
 </div>
 
